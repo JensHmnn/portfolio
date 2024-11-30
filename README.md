@@ -1,10 +1,15 @@
 # Aspiring Data Analyst
 
 ## Projects
-- 
+**Project1**
+**Project2**
+**Project3**
 
 ## Certifications
-- SQL
+*SQL*
+*Python*
+*Data Visualization*
+*Excel*
 
 ## Education
 ### Master in Philosophy, Ruhr-Unversity Bochum
