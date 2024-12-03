@@ -36,9 +36,9 @@ I hope you enjoy my work so far.
 - Organizing & executing exchange projects
 - Teaching language courses for adults
 
-### Research Assistant, Ruhr-University (Bochum)
+### Research Assistant, Ruhr-University Bochum (Germany)
 
-### Research Assistant, Ruhr-University (Bochum)
+### Research Assistant, Ruhr-University Bochum (Germany)
 
 ## Further Qualifications
 ### Languages
