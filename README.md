@@ -23,18 +23,29 @@ I hope you enjoy my work so far.
 *Excel*
 
 ## Education
-### Master in Philosophy, Ruhr-Unversity Bochum
-- Grade 1.1 ('Very Good', equivalent to GPA...)
+### Master of Arts in Philosophy, Ruhr-Unversity Bochum
+- Grade 1.1 ('Very Good', equivalent to GPA 3.9)
 
-### Dual Bachelor in Philosophy and Japanese Studies, Ruhr-Unversity Bochum
-- 
+### Dual Bachelor of Arts in Philosophy and Japanese Studies, Ruhr-Unversity Bochum
+- Grade 1.1 ('Very Good', equivalent to GPA 3.9)
   
 ## Work Experience
 ### CIR in Rokkasho, Aomori (Japan)
-- 
-- Organizing & executing Exchange Projects
+- Translation & Interpretation between Japanese, English, and German
+- Holding presentations on intercultural topics for varying audiences
+- Organizing & executing exchange projects
+- Teaching language courses for adults
+
+### Research Assistant, Ruhr-University (Bochum)
+
+### Research Assistant, Ruhr-University (Bochum)
 
 ## Further Qualifications
 ### Languages
-### Technical Skills
-
+- German (Native)
+- English (Fluent, IELTS Academic Score 8)
+- Japanese (JLPT N2, work experience in translation & interpreting)
+  
+### Further Technical Skills
+- s
+- Content Management in WordPress
