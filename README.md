@@ -13,8 +13,29 @@ Thank you for your time and interest.
 I hope you enjoy my work so far.
 
 ## Projects
-**Project1**
-**Project2**
+**Project1: Covid 19 Mortality**
+Goal: ...
+
+Description: ...
+
+Skills: data cleaning, data analysis in SQL, data visualization, dashboard creation
+
+Technology: Python, Pandas, SQL, Tableau
+
+Results: ....
+
+
+**Project2: Is freedom... (GDP and Freedom)**
+Goal: 
+
+Description: 
+
+Skills: data cleaning, data analysis in Excel, data merging, data visualization, data presentation
+
+Technology: Excel, PowerQuery, PowerPivot, PowerPoint
+
+Results: 
+
 **Project3**
 
 ## Certifications
@@ -22,30 +43,6 @@ I hope you enjoy my work so far.
 *Python*
 *Data Visualization*
 *Excel*
-
-## Education
-### Master of Arts in Philosophy, Ruhr-Unversity Bochum
-- Grade 1.1 ('Very Good', equivalent to GPA 3.9)
-
-### Dual Bachelor of Arts in Philosophy and Japanese Studies, Ruhr-Unversity Bochum
-- Grade 1.1 ('Very Good', equivalent to GPA 3.9)
-  
-## Work Experience
-### CIR in Rokkasho, Aomori (Japan)
-- Translation & Interpretation between Japanese, English, and German
-- Holding presentations on intercultural topics for varying audiences
-- Organizing & executing exchange projects
-- Teaching language courses for adults
-
-### Research Assistant, Ruhr-University Bochum (Germany)
-
-### Research Assistant, Ruhr-University Bochum (Germany)
-
-## Further Qualifications
-### Languages
-- German (Native)
-- English (Fluent, IELTS Academic Score 8)
-- Japanese (JLPT N2, work experience in translation & interpreting)
   
 ### Further Technical Skills
 - s
