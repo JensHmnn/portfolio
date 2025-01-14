@@ -1,6 +1,6 @@
 import pandas as pd
 
-path = 'C:/Users/jensh/Desktop/Project Covid19 Deaths/0) Original Data/owid-covid-data.csv'
+path = '/Users/jensh/Desktop/Project Covid19 Deaths/Original Data/owid-covid-data.csv'
 
 # Import the original dataset and fill NaNs with 0
 df = pd.read_csv(path)
@@ -31,4 +31,4 @@ vacc_cols = ("iso_code	continent	location	date	total_tests	new_tests	total_tests
              "excess_mortality_cumulative	excess_mortality	excess_mortality_cumulative_per_million")
 list_vacc_cols = vacc_cols.split("	")
 df_vacc = df2[list_vacc_cols]
-df_vacc.to_csv('C:/Users/jensh/Desktop/Project Covid19 Deaths/1.1) Split CSVs/covid_vacc.csv')
+df_vacc.to_csv('/Users/jensh/Desktop/Project Covid19 Deaths/Split CSVs/covid_vacc.csv')
