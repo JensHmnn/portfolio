@@ -1,7 +1,7 @@
 CREATE DATABASE covid_portfolio_project;
 USE covid_portfolio_project;
 
-# Creating the 2 tables with appropriate data types, so we don't run into type errors like the original video
+# Creating the 2 tables with appropriate data types
 CREATE TABLE covid_deaths (
 	unknown_col INT,
     iso_code VARCHAR(10),
