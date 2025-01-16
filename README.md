@@ -13,19 +13,19 @@ Thank you for your time and interest.
 I hope you enjoy my work so far.
 
 ## Projects
-**Project1: Covid 19 Mortality**
+**Project1: Covid 19 Mortality**\
 Goal: ...
 
 Description: ...
 
 Skills: data cleaning, data analysis in SQL, data visualization, dashboard creation
 
-Technology: Python, Pandas, SQL, Tableau
+Technology: Python, Pandas, MySQL, Tableau
 
 Results: ....
 
 
-**Project2: Is freedom... (GDP and Freedom)**
+**Project2: Is freedom... (GDP and Freedom)**\
 Goal: 
 
 Description: 
@@ -36,7 +36,16 @@ Technology: Excel, PowerQuery, PowerPivot, PowerPoint
 
 Results: 
 
-**Project3**
+**Project3**\
+Goal: 
+
+Description: 
+
+Skills: data cleaning, data analysis in Excel, data merging, data visualization, data presentation
+
+Technology: Excel, PowerQuery, PowerPivot, PowerPoint
+
+Results: 
 
 ## Certifications
 [The Ultimate MySQL Bootcamp: Beginner to Expert](https://www.udemy.com/certificate/UC-7aa27976-dc1b-4566-a78f-0af7e2cc9dcd/)\
