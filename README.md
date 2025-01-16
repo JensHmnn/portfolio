@@ -39,9 +39,9 @@ Results:
 **Project3**
 
 ## Certifications
-[The Ultimate MySQL Bootcamp: Beginner to Expert](https://www.udemy.com/certificate/UC-7aa27976-dc1b-4566-a78f-0af7e2cc9dcd/) (2025; Instructor: Colt Steele; Udemy)
-[The Complete Python Bootcamp](https://www.udemy.com/certificate/UC-ad958bff-147a-4029-959e-76ee3037e807/) (2024; Instructor: José Portilla; Udemy)
-[Python for Data Analysis & Visualization](https://www.udemy.com/certificate/UC-27c92129-57a4-4d3f-9abc-7647b1a333bf) (2024; Instructor: Malvik Vaghadia; Udemy)
+[The Ultimate MySQL Bootcamp: Beginner to Expert](https://www.udemy.com/certificate/UC-7aa27976-dc1b-4566-a78f-0af7e2cc9dcd/) (2025; Instructor: Colt Steele; Udemy)\
+[The Complete Python Bootcamp](https://www.udemy.com/certificate/UC-ad958bff-147a-4029-959e-76ee3037e807/) (2024; Instructor: José Portilla; Udemy)\
+[Python for Data Analysis & Visualization](https://www.udemy.com/certificate/UC-27c92129-57a4-4d3f-9abc-7647b1a333bf) (2024; Instructor: Malvik Vaghadia; Udemy)\
 [Microsoft Excel - Excel from Beginner to Advanced](https://www.udemy.com/certificate/UC-7c1a8971-f457-4587-a8be-3f6fd3c8bb7a/) (2024; Instructor: Kyle Pew; Udemy)
   
 ### Further Technical Skills
