@@ -49,8 +49,8 @@ Results:
 (2024; Instructor: Malvik Vaghadia; Udemy)\
 \
 [Microsoft Excel - Excel from Beginner to Advanced](https://www.udemy.com/certificate/UC-7c1a8971-f457-4587-a8be-3f6fd3c8bb7a/)\
-(2024; Instructor: Kyle Pew; Udemy)\
+(2024; Instructor: Kyle Pew; Udemy)
   
 ### Further Technical Skills
-- s
+- Microsoft Office (PowerPoint, Word)
 - Content Management in WordPress
