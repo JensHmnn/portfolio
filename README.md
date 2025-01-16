@@ -39,7 +39,7 @@ Results:
 **Project3**
 
 ## Certifications
-*SQL*
+[SQL](https://www.udemy.com/certificate/UC-7aa27976-dc1b-4566-a78f-0af7e2cc9dcd/)
 *Python*
 *Data Visualization*
 *Excel*
