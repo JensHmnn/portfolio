@@ -1,4 +1,4 @@
-# Jens Hömann - Data Analyst Portfolio
+# Data Analyst Portfolio
 Hi, and welcome to my portfolio! 
 
 My name is Jens and I'm currently working as a Coordinator for International Relations (CIR) in Northern Japan but I'm trying to set foot into the world of data analytics.
@@ -23,6 +23,8 @@ Skills: data cleaning, data analysis in SQL, data visualization, dashboard creat
 Technology: Python, Pandas, MySQL, Tableau
 
 Results: ....
+
+[Tableau Public Dashboard](https://public.tableau.com/views/GlobalCovidDataDashboard_17386379658780/Dashboard1?:language=de-DE&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 **Project2: Is freedom... (GDP and Freedom)**\
