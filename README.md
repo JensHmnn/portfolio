@@ -20,8 +20,8 @@ I hope you enjoy my work so far.
 
 <ins>Results:</ins> ....
 
-Original Dataset
-SQL Script
+Original Dataset\
+SQL Script\
 [Tableau Public Dashboard](https://public.tableau.com/views/GlobalCovidDataDashboard_17386379658780/Dashboard1?:language=de-DE&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
@@ -38,10 +38,10 @@ However, the GDP data in the QoG-dataset turned out to be somewhat inaccurate as
 
 <ins>Results:</ins> 
 
-Original Dataset 1 (Quality of Government - Basic set)
-Original Dataset 2 (IMF annual GDP per capita, purchasing power parity, current prices)
-Data Analysis Excel File
-Presentation Files
+Original Dataset 1 (Quality of Government - Basic set)\
+Original Dataset 2 (IMF annual GDP per capita, purchasing power parity, current prices)\
+Data Analysis Excel File\
+Presentation Files\
 
 ## Certifications
 [The Ultimate MySQL Bootcamp: Beginner to Expert](https://www.udemy.com/certificate/UC-7aa27976-dc1b-4566-a78f-0af7e2cc9dcd/)\
