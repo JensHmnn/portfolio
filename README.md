@@ -8,7 +8,7 @@ I hold a master's degree in philosophy and worked as a research assistant for mu
 Thank you for your time and interest.
 I hope you enjoy my work so far.
 
-## Projects\
+## Projects
 \
 **Project 1: Freedom and Prosperity**\
 <ins>Goal:</ins> Exploring the question whether freedom is not only beneficial for inidivduals but also from a broader, societal/economic perspective
