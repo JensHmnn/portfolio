@@ -8,24 +8,9 @@ I hold a master's degree in philosophy and worked as a research assistant for mu
 Thank you for your time and interest.
 I hope you enjoy my work so far.
 
-## Projects
-**Project1: Covid 19 Mortality**\
-<ins>Goal:</ins> Gaining insights into the mortality of Covid 19 infections worldwide and providing these in an accessible, explorable way
-
-<ins>Description:</ins> As my very first project
-
-<ins>Skills:</ins> data cleaning; data analysis in SQL; data visualization & dashboard creation in Tableau Public
-
-<ins>Technology:</ins> Python, Pandas, MySQL, Tableau
-
-<ins>Results:</ins> ....
-
-Original Dataset\
-SQL Script\
-[Tableau Public Dashboard](https://public.tableau.com/views/GlobalCovidDataDashboard_17386379658780/Dashboard1?:language=de-DE&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-
-
-**Project2: Freedom and Prosperity**\
+## Projects\
+\
+**Project 1: Freedom and Prosperity**\
 <ins>Goal:</ins> Exploring the question whether freedom is not only beneficial for inidivduals but also from a broader, societal/economic perspective
 
 <ins>Description:</ins> I was wondering what motivations there could be for us to aspire freedom, apart from every individual human's desire to live freely. So, in this project I was trying to gain some insight into how freedom and Gross Domestic Products - the most common measure for a country's economic prosperity - are related. For this I used two data sets: the first set I used is the "Quality of Government" (QoG) dataset of...
@@ -43,6 +28,22 @@ Original Dataset 2 (IMF annual GDP per capita, purchasing power parity, current 
 Data Analysis Excel File\
 Presentation Files\
 
+**Project 2: Covid 19 Mortality**\
+<ins>Goal:</ins> Gaining insights into the mortality of Covid 19 infections worldwide and providing these in an accessible, explorable way.
+
+<ins>Description:</ins> This was my very first project.
+
+<ins>Skills:</ins> data cleaning; data analysis in SQL; data visualization & dashboard creation in Tableau Public
+
+<ins>Technology:</ins> Python, Pandas, MySQL, Tableau
+
+<ins>Results:</ins> ....
+
+Original Dataset\
+SQL Script\
+[Tableau Public Dashboard](https://public.tableau.com/views/GlobalCovidDataDashboard_17386379658780/Dashboard1?:language=de-DE&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+\
+\
 ## Certifications
 [The Ultimate MySQL Bootcamp: Beginner to Expert](https://www.udemy.com/certificate/UC-7aa27976-dc1b-4566-a78f-0af7e2cc9dcd/)\
 (2025; Instructor: Colt Steele; Udemy)\
