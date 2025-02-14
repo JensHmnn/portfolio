@@ -9,7 +9,6 @@ Thank you for your time and interest.
 I hope you enjoy my work so far.
 
 ## Projects
-\
 **Project 1: Freedom and Prosperity**\
 <ins>Goal:</ins> Exploring the question whether freedom is not only beneficial for inidivduals but also from a broader, societal/economic perspective
 
