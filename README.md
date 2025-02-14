@@ -41,8 +41,7 @@ Presentation Files\
 Original Dataset\
 SQL Script\
 [Tableau Public Dashboard](https://public.tableau.com/views/GlobalCovidDataDashboard_17386379658780/Dashboard1?:language=de-DE&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
-\
-\
+
 ## Certifications
 [The Ultimate MySQL Bootcamp: Beginner to Expert](https://www.udemy.com/certificate/UC-7aa27976-dc1b-4566-a78f-0af7e2cc9dcd/)\
 (2025; Instructor: Colt Steele; Udemy)\
