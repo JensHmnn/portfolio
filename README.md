@@ -20,10 +20,8 @@ However, the GDP data in the QoG-dataset turned out to be somewhat inaccurate as
 
 <ins>Technology:</ins> Excel, PowerQuery, PowerPivot, PowerPoint
 
-<ins>Results:</ins> 
-
-Original Dataset 1 (Quality of Government - Basic set)\
-Original Dataset 2 (IMF annual GDP per capita, purchasing power parity, current prices)\
+[Original Quality of Government Dataset (Basic set, University Gothenburg)](https://www.gu.se/en/quality-government/qog-data/data-downloads/basic-dataset) (Download: December 26th, 2024)\
+[Original GDP per Capita Dataset (current prices, purchasing power parity; International Monetary Fund)](https://www.imf.org/external/datamapper/PPPGDP@WEO/OEMDC/ADVEC/WEOWORLD) (Download: December 29th, 2024)\
 Data Analysis Excel File\
 [PowerPoint Presentation](https://drive.google.com/drive/folders/1iXGSRn7jPZtLCqc9sF248rEuPM6t_RWp?usp=drive_link)
 
@@ -35,8 +33,6 @@ Data Analysis Excel File\
 <ins>Skills:</ins> data cleaning; data analysis in SQL; data visualization & dashboard creation in Tableau Public
 
 <ins>Technology:</ins> Python, Pandas, MySQL, Tableau
-
-<ins>Results:</ins> ....
 
 [Original Covid Dataset (Our World in Data)](https://ourworldindata.org/covid-deaths)  (Download: December 1, 2024)\
 [Python Script for Data Preparation](https://github.com/JensHmnn/portfolio/blob/main/Covid19%20Deaths%20Project/1.%20Covid19%20Deaths%20Python%20Script%20to%20Split%20CSVs.py)\
