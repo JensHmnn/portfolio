@@ -36,7 +36,7 @@ However, the GDP data in the QoG-dataset turned out to be somewhat inaccurate as
 <ins>Technology:</ins> Python, Pandas, MySQL, Tableau
 
 <ins>Files:</ins> 
-1. [Original Covid Dataset (Our World in Data)](https://ourworldindata.org/covid-deaths)  (Download: December 1, 2024)
+1. [Original Covid Dataset (Our World in Data)](https://ourworldindata.org/covid-deaths)  (Download: December 1st, 2024)
 2. [Python Script for Data Preparation](https://github.com/JensHmnn/portfolio/blob/main/Covid19%20Deaths%20Project/1.%20Covid19%20Deaths%20Python%20Script%20to%20Split%20CSVs.py)
 3. [SQL Script](https://github.com/JensHmnn/portfolio/blob/main/Covid19%20Deaths%20Project/2.%20Covid19%20Deaths%20Main%20SQL%20script.sql)
 4. [Tableau Public Dashboard](https://public.tableau.com/views/GlobalCovidDataDashboard_17386379658780/Dashboard1?:language=de-DE&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
