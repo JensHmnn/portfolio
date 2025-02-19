@@ -25,7 +25,7 @@ However, the GDP data in the QoG-dataset turned out to be somewhat inaccurate as
 Original Dataset 1 (Quality of Government - Basic set)\
 Original Dataset 2 (IMF annual GDP per capita, purchasing power parity, current prices)\
 Data Analysis Excel File\
-Presentation Files\
+[PowerPoint Presentation](https://drive.google.com/drive/folders/1iXGSRn7jPZtLCqc9sF248rEuPM6t_RWp?usp=drive_link)
 
 **Project 2: Covid 19 Mortality**\
 <ins>Goal:</ins> Gaining insights into the mortality of Covid 19 infections worldwide and providing these in an accessible, explorable way.
@@ -38,7 +38,7 @@ Presentation Files\
 
 <ins>Results:</ins> ....
 
-Original Dataset\
+[Original Covid Dataset (Our World in Data)](https://ourworldindata.org/covid-deaths)  (Download: December 1, 2024)\
 [Python Script for Data Preparation](https://github.com/JensHmnn/portfolio/blob/main/Covid19%20Deaths%20Project/1.%20Covid19%20Deaths%20Python%20Script%20to%20Split%20CSVs.py)\
 [SQL Script](https://github.com/JensHmnn/portfolio/blob/main/Covid19%20Deaths%20Project/2.%20Covid19%20Deaths%20Main%20SQL%20script.sql)\
 [Tableau Public Dashboard](https://public.tableau.com/views/GlobalCovidDataDashboard_17386379658780/Dashboard1?:language=de-DE&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
