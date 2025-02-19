@@ -20,9 +20,10 @@ However, the GDP data in the QoG-dataset turned out to be somewhat inaccurate as
 
 <ins>Technology:</ins> Excel, PowerQuery, PowerPivot, PowerPoint
 
-[Original Quality of Government Dataset (Basic set, University Gothenburg)](https://www.gu.se/en/quality-government/qog-data/data-downloads/basic-dataset) (Download: December 26th, 2024)\
-[Original GDP per Capita Dataset (current prices, purchasing power parity; International Monetary Fund)](https://www.imf.org/external/datamapper/PPPGDP@WEO/OEMDC/ADVEC/WEOWORLD) (Download: December 29th, 2024)\
-Data Analysis Excel File\
+<ins>Files:</ins> 
+[Original Quality of Government Dataset (Basic set, University Gothenburg)](https://www.gu.se/en/quality-government/qog-data/data-downloads/basic-dataset) (Download: December 26th, 2024)\\
+[Original GDP per Capita Dataset (current prices, purchasing power parity; International Monetary Fund)](https://www.imf.org/external/datamapper/PPPGDP@WEO/OEMDC/ADVEC/WEOWORLD) (Download: December 29th, 2024)\\
+Data Analysis Excel File\\
 [PowerPoint Presentation](https://drive.google.com/drive/folders/1iXGSRn7jPZtLCqc9sF248rEuPM6t_RWp?usp=drive_link)
 
 **Project 2: Covid 19 Mortality**\
@@ -34,9 +35,10 @@ Data Analysis Excel File\
 
 <ins>Technology:</ins> Python, Pandas, MySQL, Tableau
 
-[Original Covid Dataset (Our World in Data)](https://ourworldindata.org/covid-deaths)  (Download: December 1, 2024)\
-[Python Script for Data Preparation](https://github.com/JensHmnn/portfolio/blob/main/Covid19%20Deaths%20Project/1.%20Covid19%20Deaths%20Python%20Script%20to%20Split%20CSVs.py)\
-[SQL Script](https://github.com/JensHmnn/portfolio/blob/main/Covid19%20Deaths%20Project/2.%20Covid19%20Deaths%20Main%20SQL%20script.sql)\
+<ins>Files:</ins> 
+[Original Covid Dataset (Our World in Data)](https://ourworldindata.org/covid-deaths)  (Download: December 1, 2024)\\
+[Python Script for Data Preparation](https://github.com/JensHmnn/portfolio/blob/main/Covid19%20Deaths%20Project/1.%20Covid19%20Deaths%20Python%20Script%20to%20Split%20CSVs.py)\\
+[SQL Script](https://github.com/JensHmnn/portfolio/blob/main/Covid19%20Deaths%20Project/2.%20Covid19%20Deaths%20Main%20SQL%20script.sql)\\
 [Tableau Public Dashboard](https://public.tableau.com/views/GlobalCovidDataDashboard_17386379658780/Dashboard1?:language=de-DE&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Certifications
