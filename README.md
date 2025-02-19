@@ -39,7 +39,8 @@ Presentation Files\
 <ins>Results:</ins> ....
 
 Original Dataset\
-SQL Script\
+[Python Script for Data Preparation](https://github.com/JensHmnn/portfolio/blob/main/Covid19%20Deaths%20Project/1.%20Covid19%20Deaths%20Python%20Script%20to%20Split%20CSVs.py)\
+[SQL Script](https://github.com/JensHmnn/portfolio/blob/main/Covid19%20Deaths%20Project/2.%20Covid19%20Deaths%20Main%20SQL%20script.sql)\
 [Tableau Public Dashboard](https://public.tableau.com/views/GlobalCovidDataDashboard_17386379658780/Dashboard1?:language=de-DE&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Certifications
