@@ -10,11 +10,12 @@ I hope you enjoy my work so far.
 
 ## Projects
 **Project 1: Freedom and Prosperity**\
-<ins>Goal:</ins> Exploring the question whether freedom is not only beneficial for inidivduals but also from a broader, societal/economic perspective
+<ins>Goal:</ins> Exploring the question whether freedom is not only beneficial for inidivduals but also from a broader, societal erspective.
 
-<ins>Description:</ins> I was wondering what motivations there could be for us to aspire freedom, apart from every individual human's desire to live freely. So, in this project I was trying to gain some insight into how freedom and Gross Domestic Products - the most common measure for a country's economic prosperity - are related. For this I used two data sets: the first set I used is the "Quality of Government" (QoG) dataset of...
-I used the QoG-dataset because this dataset is more accessible than the datasets provided FreedomHouse themselves and gathers a lot of data on other interesting measures from different datasets, which proved interesting for data exploration.
-However, the GDP data in the QoG-dataset turned out to be somewhat inaccurate as it is based on statistical projections rather than actual data, even for already passed years. So, I replaced the GDP data from the QoG-dataset by merging it with the data on "GDP per capita, purchasing power parity, current prices" provided by the International Monetary Fund.
+<ins>Description:</ins> As over recent years freedom seems to be declining worldwide, I was wondering what reasons there are for us to aspire freedom, apart from the individual human desire to live freely. At least from a Western point of view, we usually picture the "free world" as the more advanced and prosperous part of our world. So, in this project I was trying to gain some insight into how freedom and Gross Domestic Products - the most common measure for a country's economic prosperity - are related. 
+For this purposed I used two data sets: the first one being the basic "Quality of Government" (QoG) dataset which is compiled and maintained at the University of Gothenburg. I used the QoG-data because this dataset is more accessible than the datasets provided FreedomHouse themselves and gathers a lot of data on other interesting measures from different datasets, which proved interesting for data exploration, even if I did not utilize them for the main part of the project.
+However, the GDP data in the QoG-dataset turned out to be somewhat inaccurate as it is based on statistical projections rather than actual data. So, I replaced the GDP data from the QoG-dataset with the data on "GDP per capita, purchasing power parity, current prices" provided by the International Monetary Fund.
+Lastly, I summarized the analysis and results in a PowerPoint presentation.
 
 <ins>Skills:</ins> data merging, data cleaning & data analysis with PowerQuery and PowerPivot; data visualization with Excel; data presentation with PowerPoint
 
