@@ -1,5 +1,5 @@
 title: Jens Hömann
-logo: portfolio/20231007_171757.jpg
+#logo: relative_path
 #description: text below image
 show_downloads: false
 theme: jekyll-theme-minimal
