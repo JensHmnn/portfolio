@@ -43,8 +43,8 @@ Lastly, I summarized the analysis and results in a PowerPoint presentation.
 <ins>Goal:</ins> Gaining insights into the mortality of Covid 19 infections worldwide and providing these in an accessible, explorable way.
 
 <ins>Description:</ins> This was my very first project. 
-As such, it is originally a follow-along project of Alex the Analyst on YouTube ([Source 1](https://www.youtube.com/watch?v=qfyynHBFOsM), [Source 2](https://www.youtube.com/watch?v=QILNlRvJlfQ)). 
-However, along the way I had to make a lot of adjustments to avoid errors that would occur with the original code on my environment.
+As such, it is originally a follow-along project of Alex the Analyst ([Source 1](https://www.youtube.com/watch?v=qfyynHBFOsM), [Source 2](https://www.youtube.com/watch?v=QILNlRvJlfQ)). 
+However, along the way I had to make a lot of adjustments to avoid errors and other problems that would occur with the original code on my environment.
 Also, I tried to add my own ideas onto the original code and Tableau dashboard.
 
 <ins>Skills:</ins> data cleaning; data analysis in SQL; data visualization & dashboard creation in Tableau Public
