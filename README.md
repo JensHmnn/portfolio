@@ -49,7 +49,7 @@ Also, I tried to add my own ideas onto the original code and Tableau dashboard.
 
 <ins>Skills:</ins> data cleaning; data analysis in SQL; data visualization & dashboard creation in Tableau Public
 
-<ins>Technology:</ins> Python, Pandas, MySQL, Tableau
+<ins>Technology:</ins> SQL (MySQL), Tableau, (Python, Pandas)
 
 <ins>Files:</ins> 
 1. [Original Covid Dataset (Our World in Data)](https://ourworldindata.org/covid-deaths)  (Download: December 1st, 2024)
