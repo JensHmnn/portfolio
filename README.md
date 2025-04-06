@@ -1,4 +1,4 @@
-# Data Analyst Portfolio
+# Portfolio
 Hi, and welcome to my portfolio! 
 
 My name is Jens and I'm currently working as a Coordinator for International Relations (CIR) in Northern Japan but I'm trying to set foot into the world of data analytics.
