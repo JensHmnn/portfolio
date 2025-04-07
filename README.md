@@ -17,8 +17,6 @@ For this purposed I used two data sets: the first one being the basic "Quality o
 However, the GDP data in the QoG-dataset turned out to be somewhat inaccurate as it is based on statistical projections rather than actual data. So, I replaced the GDP data from the QoG-dataset with the data on "GDP per capita, purchasing power parity, current prices" provided by the International Monetary Fund.
 Lastly, I summarized the analysis and results in a PowerPoint presentation.
 
-<ins>Skills:</ins> data merging, data cleaning & data analysis with PowerQuery and PowerPivot; data visualization with Excel; data presentation with PowerPoint
-
 <ins>Technology:</ins> Excel, PowerQuery, PowerPivot, PowerPoint
 
 <ins>Files:</ins> 
@@ -26,12 +24,10 @@ Lastly, I summarized the analysis and results in a PowerPoint presentation.
 2. [Original GDP per Capita Dataset (current prices, purchasing power parity; International Monetary Fund)](https://www.imf.org/external/datamapper/PPPGDP@WEO/OEMDC/ADVEC/WEOWORLD) (Download: December 29th, 2024)
 3. [Data Analysis Excel File & PowerPoint Presentation](https://drive.google.com/drive/folders/1J-n2DYZ4N62xdUuRnm7ziKI9XtT3Uxcq)
 
-**Project 2: Workout Tracker**\
+**Project 2: Workout Tracker (early version)**\
 <ins>Goal:</ins> Create a workout tracker app using Python to store and display data about past workouts.
 
-<ins>Description:</ins> This project is less focused on data analysis, and more on the programming side of things. 
-
-<ins>Skills:</ins> 
+<ins>Description:</ins> This project is less focused on data analysis, and more on the programming side of things. I wanted to create an app to keep track of workouts and display different information about this data. However, this project is still in an early stage. For example, I will add more variety to the types of workouts and the displayable charts. Also I will soon make the automatic calculation of calories more complex by adding workout intensity. The main issue with the current simple way of calculating burned calories is that it is simply inaccurate, as multiple factors influence how many calories are burned in a workout, not just the type of workout and it's length. This issue can also be seen in the visualization of "burned calories over workout duration" when using the provided workout dataset. Solely using on the automatic calculation for burned calories leads to a perfectly linear correlation between burned calories & length of the workout which is frankly unrealistic and to a degree makes the visualization lose its purpose.
 
 <ins>Technology:</ins> Python, matplotlib, PyQt5, Pandas, SQL
 
@@ -45,8 +41,6 @@ Lastly, I summarized the analysis and results in a PowerPoint presentation.
 As such, it is originally a follow-along project of Alex the Analyst ([Source 1](https://www.youtube.com/watch?v=qfyynHBFOsM), [Source 2](https://www.youtube.com/watch?v=QILNlRvJlfQ)). 
 However, along the way I had to make a lot of adjustments to avoid errors and other problems that would occur with the original code on my environment.
 Also, I tried to add my own ideas onto the original code and Tableau dashboard.
-
-<ins>Skills:</ins> data cleaning; data analysis in SQL; data visualization & dashboard creation in Tableau Public
 
 <ins>Technology:</ins> SQL (MySQL), Tableau, (Python, Pandas)
 
