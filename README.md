@@ -37,7 +37,7 @@ Lastly, I summarized the analysis and results in a PowerPoint presentation.
 <ins>Technology:</ins> Python, matplotlib, PyQt5, Pandas, SQL
 
 <ins>Files:</ins> 
-1. [Workout Tracker Repository](https://ourworldindata.org/covid-deaths)
+1. [Workout Tracker Repository](https://github.com/JensHmnn/portfolio/tree/main/Workout_Tracker)
 
 **Project 3: Covid 19 Mortality**\
 <ins>Goal:</ins> Gaining insights into the mortality of Covid 19 infections worldwide and providing these in an accessible, explorable way.
