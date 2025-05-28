@@ -3,10 +3,10 @@ Hi, and welcome to my portfolio!
 
 My name is Jens and I'm currently working as a Coordinator for International Relations (CIR) in Northern Japan but I'm trying to set foot into the world of data and programming.
 
-I hold a master's degree in philosophy and worked as a research assistant for multiple professors at university. The self-chosen focus of my studies lay on Philosophy of Mind and Cognitive Science, which ended up sparking my interest in programming, data and statistics. My skills in Python, SQL, and Excel I acquired during my free time mainly via courses on Udemy, YouTube, and a whole lot of online research.
+I hold a master's degree in philosophy and worked as a research assistant for two professors at Ruhr-University. The focus of my studies and work lay on Philosophy of Mind and Cognitive Science, which ended up sparking my interest in programming, data and statistics. I acquired skills in Python, SQL, and Excel during my free time mainly via courses on Udemy, YouTube, and a whole lot of online research.
 
 Thank you for your time and interest.
-I hope you enjoy my work so far.
+I hope you enjoy my work so far!
 
 ## Projects
 **Project 1: Freedom and Prosperity**\
