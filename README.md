@@ -1,7 +1,7 @@
 # Portfolio
 Hi, and welcome to my portfolio! 
 
-My name is Jens and I'm currently working as a Coordinator for International Relations (CIR) in Northern Japan but I'm trying to set foot into the world of data and programming.
+My name is Jens and I'm currently working as a Coordinator for International Relations (CIR) in Northern Japan but I also have passion for data and programming.
 
 I hold a master's degree in philosophy and worked as a research assistant for two professors at Ruhr-University. The focus of my studies and work lay on Philosophy of Mind and Cognitive Science, which ended up sparking my interest in programming, data and statistics. I acquired skills in Python, SQL, and Excel during my free time mainly via courses on Udemy, YouTube, and a whole lot of online research.
 
