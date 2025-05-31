@@ -23,6 +23,7 @@ After analyzing the data in Excel using mostly PowerQuery, PowerPivot and pivot 
 1. [Original Quality of Government Dataset (Basic set, University Gothenburg)](https://www.gu.se/en/quality-government/qog-data/data-downloads/basic-dataset) (Download: December 26th, 2024)
 2. [Original GDP per Capita Dataset (current prices, purchasing power parity; International Monetary Fund)](https://www.imf.org/external/datamapper/PPPGDP@WEO/OEMDC/ADVEC/WEOWORLD) (Download: December 29th, 2024)
 3. [Data Analysis Excel File & PowerPoint Presentation](https://drive.google.com/drive/folders/1J-n2DYZ4N62xdUuRnm7ziKI9XtT3Uxcq)
+   (Please download the presentation file as viewing in Google Drive distorts the layout)
 
 **Project 2: Workout Tracker (early version)**\
 <ins>Goal:</ins> Creating a workout tracker app using Python to store and display data about past workouts.
