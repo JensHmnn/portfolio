@@ -9,7 +9,29 @@ Thank you for your time and interest.
 I hope you enjoy my work so far!
 
 ## Projects
-**Project 1: Freedom and Prosperity**\
+**Project 1: Interactive Sales Dashboard (Tableau)**\
+<ins>Goal:</ins> Creating an interactive dashboard that represents different sales metrics and trends as well as customer data allowing users to analyze year-over-year sales performance and trends along with customer behavior and trends.
+
+<ins>Description:</ins>
+
+<ins>Technology:</ins> Tableau
+
+<ins>Files:</ins> 
+1. [Tableau Public Dashboard](https://public.tableau.com/views/SalesDashboardInteractive/SalesDashboard?:language=de-DE&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+**Project 2: Workout Tracker (early version, work in progress) (Python)**\
+<ins>Goal:</ins> Creating a workout tracker app using Python to store and display data of past workouts.
+
+<ins>Description:</ins> This project is a little less focused on data analysis in itself, and more on the programming side of things. My goal is to create an app for tracking workouts and utilizing this data to be able to gain various insights. 
+This project is still in an early stage. In the future I will add more variety to the types of workouts and the displayable charts. Also I will soon make the automatic calculation of burned calories more accurate by adding workout intensity. The main issue with the current simple way of calculating burned calories is that it is simply inaccurate, as multiple factors influence how many calories are burned in a workout, not just the type of workout and it's length. This issue can also be seen in the visualization of "burned calories over workout duration" when using the provided workout dataset. Solely using on the automatic calculation for burned calories leads to a perfectly linear correlation between burned calories & length of the workout which is frankly unrealistic and to a degree makes the visualization lose its purpose.\
+My long term goal is also to replace the entry fields with an AI chatbot that further automates the process of extracting, storing, and analyzing the data. However, as I am just starting off at acquiring skills in AI programming achieving this goal will require some more time. Still I hope that in the tracker in its current state can represent some of my ideas and technical skills.
+
+<ins>Technology:</ins> Python, matplotlib, PyQt5, Pandas, SQL
+
+<ins>Files:</ins> 
+1. [Workout Tracker Repository](https://github.com/JensHmnn/portfolio/tree/main/Workout_Tracker)
+
+**Project 3: Freedom and Prosperity (Excel)**\
 <ins>Goal:</ins> Exploring the question whether freedom is not only beneficial for inidivduals but also from a broader societal perspective.
 
 <ins>Description:</ins> As over recent years freedom appears to be declining worldwide, I was wondering what reasons there are for societies to aspire freedom, apart from the human desire to live freely. At least from a Western point of view, we usually picture the "free world" as the more advanced and economically prosperous part of our world. So, in this project I was trying to gain some insight into how freedom and Gross Domestic Products - the most common measure for a country's economic prosperity - are related. 
@@ -25,19 +47,7 @@ After analyzing the data in Excel using mostly PowerQuery, PowerPivot and pivot 
 3. [Data Analysis Excel File & PowerPoint Presentation](https://drive.google.com/drive/folders/1J-n2DYZ4N62xdUuRnm7ziKI9XtT3Uxcq)
    (Please download the presentation file as viewing in Google Drive distorts the layout)
 
-**Project 2: Workout Tracker (early version)**\
-<ins>Goal:</ins> Creating a workout tracker app using Python to store and display data about past workouts.
-
-<ins>Description:</ins> This project is a little less focused on data analysis in itself, and more on the programming side of things. I wanted to create an app to keep track of workouts and display different information about this data. 
-This project is still in an early stage. For example, I will add more variety to the types of workouts and the displayable charts. Also I will make the automatic calculation of burned calories more accurate by adding workout intensity. The main issue with the current simple way of calculating burned calories is that it is simply inaccurate, as multiple factors influence how many calories are burned in a workout, not just the type of workout and it's length. This issue can also be seen in the visualization of "burned calories over workout duration" when using the provided workout dataset. Solely using on the automatic calculation for burned calories leads to a perfectly linear correlation between burned calories & length of the workout which is frankly unrealistic and to a degree makes the visualization lose its purpose.\
-My long term goal is also to replace the entry fields with an AI chatbot that further automates the process of extracting, storing, and analyzing the data. However, as I am just starting off at acquiring skills in AI programming achieving this goal will require some more time. Still I hope that in the tracker in its current state can represent some of my ideas and technical skills.
-
-<ins>Technology:</ins> Python, matplotlib, PyQt5, Pandas, SQL
-
-<ins>Files:</ins> 
-1. [Workout Tracker Repository](https://github.com/JensHmnn/portfolio/tree/main/Workout_Tracker)
-
-**Project 3: Covid 19 Mortality**\
+**Project 4: Covid 19 Mortality (SQL & Tableau)**\
 <ins>Goal:</ins> Gaining insights into the mortality of Covid 19 infections worldwide and providing these in an accessible, explorable way.
 
 <ins>Description:</ins> This was my very first project. 
