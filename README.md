@@ -12,12 +12,12 @@ I hope you enjoy my work so far!
 **Project 1: Interactive Sales Dashboard (Tableau)**\
 <ins>Goal:</ins> Creating an interactive dashboard that represents different sales metrics and trends as well as customer data allowing users to analyze year-over-year sales performance and trends along with customer behavior and trends.
 
-<ins>Description:</ins>
+<ins>Description:</ins> In this project I focused on data visualization in Tableau Public. To do so I used an already prepared sales data that only needed to be connected into a datamodel. 
+Then I created two interconntected dashboards - a sales dashboard and a customers dashboard, representing different data and metrics from the original data sets.
 
 <ins>Technology:</ins> Tableau
 
-<ins>Files:</ins> 
-1. [Tableau Public Dashboard](https://public.tableau.com/views/SalesDashboardInteractive/SalesDashboard?:language=de-DE&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+<ins>Files:</ins> [Tableau Public Dashboard](https://public.tableau.com/views/SalesDashboardInteractive/SalesDashboard?:language=de-DE&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 **Project 2: Workout Tracker (early version, work in progress) (Python)**\
 <ins>Goal:</ins> Creating a workout tracker app using Python to store and display data of past workouts.
