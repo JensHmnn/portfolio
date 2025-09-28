@@ -25,8 +25,7 @@ This project's goal is to create an app for tracking workouts and utilizing this
 
 <ins>Technology:</ins> Python, matplotlib, PyQt5, Pandas, SQL
 
-<ins>Files:</ins> 
-1. [Workout Tracker Repository](https://github.com/JensHmnn/workouttracker/tree/main)
+<ins>Files:</ins> [Workout Tracker Repository](https://github.com/JensHmnn/workouttracker/tree/main)
 
 **Project 2: Interactive Sales Dashboard (Tableau)**\
 <ins>Goal:</ins> Creating an interactive dashboard that represents different sales metrics and trends as well as customer data allowing users to analyze year-over-year sales performance and trends along with customer behavior and trends.
