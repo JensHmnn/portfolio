@@ -1,22 +1,17 @@
 # Portfolio
-Hi, and welcome to my portfolio! 
-
+Hi, and welcome to my portfolio! \
 こんにちは、私のポートフォリオへようこそ！
 
-My name is Jens and I was formerly working as a Coordinator for International Relations (CIR) in Northern Japan but I also have passion for data and programming.
-
+My name is Jens and I was formerly working as a Coordinator for International Relations (CIR) in Northern Japan but I also have passion for data and programming.\
 私の名前はイェンスで、以前は日本北部で国際交流員（CIR）として勤務していましたが、データやプログラミングにも情熱を持っています。
 
-I hold a master's degree in philosophy and worked as a research assistant for two professors at Ruhr-University. The focus of my studies and work lay on Philosophy of Mind and Cognitive Science, which ended up sparking my interest in programming, data and statistics. I acquired skills in Python, SQL, and Excel during my free time mainly via courses on Udemy, YouTube, and a whole lot of online research.
-
+I hold a master's degree in philosophy and worked as a research assistant for two professors at Ruhr-University. The focus of my studies and work lay on Philosophy of Mind and Cognitive Science, which ended up sparking my interest in programming, data and statistics. I acquired skills in Python, SQL, and Excel during my free time mainly via courses on Udemy, YouTube, and a whole lot of online research.\
 私は哲学の修士号を取得しており、ルール大学で教授の研究助手として働いていました。学業と研究の中心は「心の哲学」と「認知科学」で、そこからプログラミングやデータ、統計への関心が芽生えました。Python、SQL、Excel については主にUdemyやYouTubeのコース、そして数多くのオンライン調査を通じて独学で習得しました。
 
-Thank you for your time and interest.
-
+Thank you for your time and interest.\
 ご覧いただき、ありがとうございます。
 
-I hope you enjoy my work so far!
-
+I hope you enjoy my work so far!\
 楽しんでいただければ幸いです。
 
 ## Projects
