@@ -70,14 +70,18 @@ Also, I tried to add my own ideas onto the original code and Tableau dashboard, 
 4. [Tableau Public Dashboard](https://public.tableau.com/views/GlobalCovidDataDashboard_17386379658780/Dashboard1?:language=de-DE&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ## Certifications/資格
-[The Ultimate MySQL Bootcamp: Beginner to Expert](https://www.udemy.com/certificate/UC-7aa27976-dc1b-4566-a78f-0af7e2cc9dcd/)\
-(2025; Instructor: Colt Steele; Udemy)\
+[The Ultimate MySQL Bootcamp: Beginner to Expert](https://drive.google.com/file/d/1xmBhP8mVCwuhWuu6gpR_9yFXfCyez-qD/view?usp=sharing)\
+[MySQL ブートキャンプ： 初心者からエキスパートまで](https://drive.google.com/file/d/1JCuo5wvMsKWdhUI9x6R1cbF34Jo2gbPh/view?usp=sharing)\
+(2025; Instructor/講師: Colt Steele; Udemy)\
 \
-[The Complete Python Bootcamp](https://www.udemy.com/certificate/UC-ad958bff-147a-4029-959e-76ee3037e807/)\
-(2024; Instructor: José Portilla; Udemy)\
+[The Complete Python Bootcamp](https://drive.google.com/file/d/1BPoR75oIhROIw8HN_XgMd2Zy6xWxWaoA/view?usp=sharing)\
+[Pythonブートキャンプ完全版](https://drive.google.com/file/d/1L7KrJawLfBX1J4uxKyZnz1MqB1ejzG_7/view?usp=sharing)\
+(2024; Instructor/講師: José Portilla; Udemy)\
 \
-[Python for Data Analysis & Visualization](https://www.udemy.com/certificate/UC-27c92129-57a4-4d3f-9abc-7647b1a333bf)\
-(2024; Instructor: Malvik Vaghadia; Udemy)\
+[Python for Data Analysis & Visualization](https://drive.google.com/file/d/1_PkCHl8W6upqpAC-r6UZDYLjfXkHiZ7r/view?usp=sharing)\
+[データ分析と可視化のためのPython](https://drive.google.com/file/d/1Osehtp0NfpIeJwucRCmYfkv5BfdTfeue/view?usp=sharing)\
+(2024; Instructor/講師: Malvik Vaghadia; Udemy)\
 \
-[Microsoft Excel - Excel from Beginner to Advanced](https://www.udemy.com/certificate/UC-7c1a8971-f457-4587-a8be-3f6fd3c8bb7a/)\
-(2024; Instructor: Kyle Pew; Udemy)
+[Microsoft Excel - Excel from Beginner to Advanced](https://drive.google.com/file/d/1X0FOhZAKV49DCD8DtoeZ56i4iEI-5RKm/view?usp=sharing)\
+[Microsoft Excel - 初心者から上級者まで](https://drive.google.com/file/d/1hMDLVcScjgrzykj4yfurEeaF0vAIuyXK/view?usp=sharing)\
+(2024; Instructor/講師: Kyle Pew; Udemy)
