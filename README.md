@@ -28,10 +28,12 @@ This project's goal is to create an app for tracking workouts and utilizing this
 <ins>Files:</ins> [Workout Tracker Repository](https://github.com/JensHmnn/workouttracker/tree/main)
 
 **Project 2: Interactive Sales Dashboard (Tableau)**\
-<ins>Goal:</ins> Creating an interactive dashboard that represents different sales metrics and trends as well as customer data allowing users to analyze year-over-year sales performance and trends along with customer behavior and trends.
+<ins>Goal:</ins> Creating an interactive dashboard that represents different sales metrics and trends as well as customer data allowing users to analyze year-over-year sales performance and trends along with customer behavior and trends.\
+<ins>目標：</ins>売上の指標やトレンド、さらに顧客データを可視化するインタラクティブなダッシュボードを作成し、ユーザーが前年比の売上パフォーマンスやトレンド、顧客行動や傾向を分析できるようにすること。
 
 <ins>Description:</ins> In this project I focused on data visualization in Tableau Public. To do so I used an already prepared sales data that only needed to be connected into a datamodel. 
-Then I created two interconntected dashboards - a sales dashboard and a customers dashboard, representing different data and metrics from the original data sets.
+Then I created two interconntected dashboards - a sales dashboard and a customers dashboard, representing different data and metrics from the original data sets.\
+<ins>概要：</ins>このプロジェクトでは、Tableau Public を用いたデータ可視化に重点を置きました。そのために、あらかじめ準備されていた売上データをデータモデルに接続し、2つの相互に連動するダッシュボード（売上ダッシュボードと顧客ダッシュボード）を作成しました。これにより、元のデータセットに含まれるさまざまなデータを表現しています。
 
 <ins>Technology:</ins> Tableau
 
