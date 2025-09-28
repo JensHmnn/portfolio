@@ -18,10 +18,10 @@ I hope you enjoy my work so far!\
 
 **Project 1: Workout Tracker (Python)**\
 
-<ins>Description/概要:</ins>
+<ins>Description:</ins>
 This project's goal is to create an app for tracking workouts and utilizing this data to be able to gain various insights. It's still in an early stage. In the future I will add more variety to the types of workouts and the displayable charts. Also I will make the automatic calculation of burned calories more accurate by adding workout intensity.　The file "workout.db" contains a SQL database of randomly generated workout data. The code I used to create this database can be found in the "generate_db.py" file.
 
-このプロジェクトの目的は、ジムでの運動を記録するアプリを作成し、そのデータを活用してさまざまな分析や洞察を得られるようにすることです。現在はまだ初期段階にあります。将来的には、選択できる運動の種類と、データを視覚化できるグラフを増やす予定です。また、運動強度などを加味することで、自動的に算出される消費カロリーの精度を高めていきます。「workout.db」はランダムに生成された運動トデータのSQLデータベースです。このデータベースを作成するために使用したコードは「generate_db.py」ファイルにあります
+<ins>概要: </ins>このプロジェクトの目的は、ジムでの運動を記録するアプリを作成し、そのデータを活用してさまざまな分析や洞察を得られるようにすることです。現在はまだ初期段階にあります。将来的には、選択できる運動の種類と、データを視覚化できるグラフを増やす予定です。また、運動強度などを加味することで、自動的に算出される消費カロリーの精度を高めていきます。「workout.db」はランダムに生成された運動トデータのSQLデータベースです。このデータベースを作成するために使用したコードは「generate_db.py」ファイルにあります
 
 <ins>Technology:</ins> Python, matplotlib, PyQt5, Pandas, SQL
 
@@ -29,11 +29,11 @@ This project's goal is to create an app for tracking workouts and utilizing this
 
 **Project 2: Interactive Sales Dashboard (Tableau)**\
 <ins>Goal:</ins> Creating an interactive dashboard that represents different sales metrics and trends as well as customer data allowing users to analyze year-over-year sales performance and trends along with customer behavior and trends.\
-<ins>目標:</ins>売上の指標やトレンド、さらに顧客データを可視化するインタラクティブなダッシュボードを作成し、ユーザーが前年比の売上パフォーマンスやトレンド、顧客行動や傾向を分析できるようにすること。
+<ins>目標: </ins>売上の指標やトレンド、さらに顧客データを可視化するインタラクティブなダッシュボードを作成し、ユーザーが前年比の売上パフォーマンスやトレンド、顧客行動や傾向を分析できるようにすること。
 
 <ins>Description:</ins> In this project I focused on data visualization in Tableau Public. To do so I used an already prepared sales data that only needed to be connected into a datamodel. 
 Then I created two interconntected dashboards - a sales dashboard and a customers dashboard, representing different data and metrics from the original data sets.\
-<ins>概要:</ins>このプロジェクトでは、Tableau Public を用いたデータ可視化に重点を置きました。そのために、あらかじめ準備されていた売上データをデータモデルに接続し、2つの相互に連動するダッシュボード（売上ダッシュボードと顧客ダッシュボード）を作成しました。これにより、元のデータセットに含まれるさまざまなデータを表現しています。
+<ins>概要: </ins>このプロジェクトでは、Tableau Public を用いたデータ可視化に重点を置きました。そのために、あらかじめ準備されていた売上データをデータモデルに接続し、2つの相互に連動するダッシュボード（売上ダッシュボードと顧客ダッシュボード）を作成しました。これにより、元のデータセットに含まれるさまざまなデータを表現しています。
 
 <ins>Technology:</ins> Tableau
 
